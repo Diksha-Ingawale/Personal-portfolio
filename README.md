@@ -1,2 +1,2 @@
-# personal-portfolio
-a personal portfolio website to showcase my skills
+# CODSOFT2-main
+ 
